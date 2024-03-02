@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Satyam Jaiswal
-  and I'm a App Developer,Full-Stack Web Developer And ML Enginner also having quite knowledge of every Tech Field, 
-  from G.L Bajaj Institute Of Technology And Management, Greater Noida</h2>
+<h2 align="left">Hi 👋! My name is Satyam Jaiswal<br>
+  I'm a App Developer,Full-Stack Web Developer And ML Enginner <br> I also have quite knowledge of every Tech Field, <br>
+  From G.L Bajaj Institute Of Technology And Management, Greater Noida</h2>
 
 ###
 
