@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Satyam Jaiswal
+  and I'm a App Developer,Full-Stack Web Developer And ML Enginner also having quite knowledge of every Tech Field, 
+  from G.L Bajaj Institute Of Technology And Management, Greater Noida</h2>
 
 ###
 
@@ -62,8 +64,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SG-CLUB-045/SG-CLUB-045/output/snake.svg" alt="Snake animation" />
-
-###
